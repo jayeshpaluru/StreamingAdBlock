@@ -6,8 +6,7 @@
   "permissions": [
     "scripting",
     "storage",
-    "tabs",
-    "webNavigation"
+    "tabs"
   ],
   "host_permissions": [
     "*://*.hulu.com/*",
